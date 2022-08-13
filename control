@@ -1,8 +1,8 @@
-Package: com.semvis123.ealogger
-Name: EALogger
+Package: com.semvis123.blelogger
+Name: BLELogger
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Simple logger that logs External Accessory traffic
+Description: Simple logger that logs Bluetooth Low Energy traffic
 Maintainer: Sem Visscher
 Author: Sem Visscher
 Section: Tweaks
